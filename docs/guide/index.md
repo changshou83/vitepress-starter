@@ -115,8 +115,8 @@ export default {
 }
 ```
 
-```js{1,4,6-7}
-export default { // Highlighted
+```js{4,6-7}
+export default {
   data () {
     return {
       msg: `Highlighted!
